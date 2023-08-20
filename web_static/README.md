@@ -9,7 +9,7 @@ Static websites are simpler to create and host because they don't require comple
 ## What is HTML:
 HTML stands for HyperText Markup Language. It is the standard markup language used to create and structure content on the web. HTML uses a system of tags and elements to define the structure of a webpage's content.
 
-How to create an HTML page:
+## How to create an HTML page:
 To create an HTML page, you need to follow these steps:
 
 Open a text editor (e.g., Notepad, Visual Studio Code).
@@ -17,10 +17,10 @@ Write your HTML code using the appropriate tags and elements to structure your c
 Save the file with a .html extension, such as index.html.
 Open the HTML file in a web browser to view the rendered webpage.
 
-What is a markup language:
+## What is a markup language:
 A markup language is a system for annotating text to indicate how it should be structured, formatted, or presented. In the context of the web, HTML is a markup language that is used to define the structure and content of webpages.
 
-What is an element / tag:
+## What is an element / tag:
 An element (often referred to as a tag) in HTML is a fundamental building block that represents a structure or content within a webpage. Elements are enclosed within angle brackets (< >) and typically come in pairs, with an opening tag and a closing tag. The content between the opening and closing tags defines the purpose and characteristics of the element.
 
 What is an attribute:
@@ -35,7 +35,7 @@ The browser parses the HTML code and constructs the DOM.
 The browser fetches external resources (e.g., images, stylesheets, scripts) referenced in the HTML.
 The browser renders the webpage, applying CSS styles and executing JavaScript code.
 
-What is CSS:
+## What is CSS:
 CSS stands for Cascading Style Sheets. It is a stylesheet language used to describe the visual presentation of HTML elements. CSS defines how elements should be styled, including properties like colors, fonts, margins, and positioning.
 
 How to add style to an element:
